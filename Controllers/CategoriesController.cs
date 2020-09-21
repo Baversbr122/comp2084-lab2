@@ -26,7 +26,7 @@ namespace Lab2.Controllers
         }
         public IActionResult Details(string Categories)
         {
-            ViewBag.Categories = "This is the" + Categories + "Category";
+            ViewBag.Categories = "This is the " + Categories + " Category";
 
             return View();
         }

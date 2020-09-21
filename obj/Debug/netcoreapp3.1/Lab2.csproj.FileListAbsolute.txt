@@ -108,3 +108,5 @@ D:\Semester 3\ASP.NET\Week 1 Visual Studio\Lab2\Lab2\bin\Debug\netcoreapp3.1\zh-
 D:\Semester 3\ASP.NET\Week 1 Visual Studio\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.MvcApplicationPartsAssemblyInfo.cache
 D:\Semester 3\ASP.NET\Week 1 Visual Studio\Lab2\Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Categories\index.cshtml.g.cs
 D:\Semester 3\ASP.NET\Week 1 Visual Studio\Lab2\Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
+D:\Semester 3\ASP.NET\Week 1 Visual Studio\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.csproj.CoreCompileInputs.cache
+D:\Semester 3\ASP.NET\Week 1 Visual Studio\Lab2\Lab2\obj\Debug\netcoreapp3.1\Lab2.genruntimeconfig.cache
